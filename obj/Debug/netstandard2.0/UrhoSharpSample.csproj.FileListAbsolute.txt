@@ -1,0 +1,14 @@
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/bin/Debug/netstandard2.0/UrhoSharpSample.deps.json
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/bin/Debug/netstandard2.0/UrhoSharpSample.dll
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/bin/Debug/netstandard2.0/ref/UrhoSharpSample.dll
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/bin/Debug/netstandard2.0/UrhoSharpSample.pdb
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/obj/Debug/netstandard2.0/UrhoSharpSample.csprojAssemblyReference.cache
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/obj/Debug/netstandard2.0/UrhoSharpSample.AssemblyInfoInputs.cache
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/obj/Debug/netstandard2.0/UrhoSharpSample.AssemblyInfo.cs
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/obj/Debug/netstandard2.0/UrhoSharpSample.csproj.CoreCompileInputs.cache
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/obj/Debug/netstandard2.0/UrhoSharpSample.dll
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/obj/Debug/netstandard2.0/ref/UrhoSharpSample.dll
+/Users/ilnamjeong/Projects/UrhoSharpSample/UrhoSharpSample/obj/Debug/netstandard2.0/UrhoSharpSample.pdb
